@@ -1,0 +1,27 @@
+body{
+    background-color: #e5d9d6;
+}
+
+hr{ 
+    border-style: none;
+    border-color: grey; 
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+}
+h1{
+    color: #3A8891;
+}
+h3{
+    color: #3A8891;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+   width: 100px;
+    height:100px;
+   
+}
+
